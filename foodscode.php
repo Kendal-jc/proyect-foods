@@ -71,21 +71,21 @@
         </div>
         <ul class="nav mt-auto d-inline-flex display-3 mb-md-1">
             <li>
-                <a class="btn btn-primary btnn" href="indexO.html">Categorias</a>
+                <a class="btn btn-primary btnn" href="indexC.php">Categorias</a>
             </li>
 
             <li>
-                <a class="btn btn-primary btnn" href="indexO.html">Ocasiones</a>
+                <a class="btn btn-primary btnn" href="indexO.php">Ocasiones</a>
             <li>
-                <a class="btn btn-primary btnn" href="indexO.html">Dificultad</a>
+                <a class="btn btn-primary btnn" href="indexO.php">Dificultad</a>
             </li>
 
             <li>
-                <a class="btn btn-primary btnn" href="indexC.html">Bebidas</a>
+                <a class="btn btn-primary btnn" href="indexC.php">Bebidas</a>
             </li>
 
             <li>
-                <a class="btn btn-primary btnn" href="indexC.html">Sopas</a>
+                <a class="btn btn-primary btnn" href="indexC.php">Sopas</a>
             </li>
         </ul>
     </div>
@@ -159,9 +159,8 @@
                 <div class="card cardss" style="width: 18rem;">
                     <img src="./imgs/iimg-4.jpg" class="card-img-top mt-3 p-2" alt="receta">
                     <div class="card-body">
-                        <a class="card-title pointer text-decoration-none text-center d-block category"
-                            href="./detalle.html">
-                            DESAYUNO INGLÉS</a>
+                        <a class="card-title pointer text-decoration-none text-center d-block category text-truncate"
+                            href="./detalle.html">DESAYUNO INGLÉS</a>
                         <p class="card-text text-center mt-3">
                             <img src="./imgs/like.png" alt="like" style="width:2em;">
                         </p>

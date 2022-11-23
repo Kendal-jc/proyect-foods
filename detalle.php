@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="./css/components.css">
     <link rel="stylesheet" href="./css/frontsprincipa.css">
     <link rel="stylesheet" href="./css/style.css">
+    
 </head>
 
 <body>
@@ -44,7 +45,7 @@
                 </div>
             </div>
         </header>
-        <a href="./foodscode.html"> <img class="back-icon" src="./imgs/atras.png" alt="atras"> </a>
+        <a href="./foodscode.php"> <img class="back-icon" src="./imgs/atras.png" alt="atras"> </a>
 
         <nav class="details-limit">
             <div class="row mt-5">
@@ -120,7 +121,7 @@
 
 
     <div class="container margin-tp">
-        <div class="mb-1">
+    <div class="mb-1">
             <div class="food-type-limit mt-1 header-limit">
                 <h2 class="mt-3 ms-3 float-right title-lg margin-t">Top 10 en recetas</h2>
             </div>

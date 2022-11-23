@@ -54,7 +54,7 @@
                 </div>
             </div>
         </header>
-        <a href="./foodscode.html"> <img class="back-icon" src="./imgs/atras.png" alt="atras"> </a>
+        <a href="./foodscode.php"> <img class="back-icon" src="./imgs/atras.png" alt="atras"> </a>
 
         <div class="container-fluid d-flex justify-content-center">
             <h2 class="mt-3 title-xxlg">Almuerzos</h2>
