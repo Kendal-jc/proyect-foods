@@ -71,17 +71,17 @@
         </div>
         <ul class="nav mt-auto d-inline-flex display-3 mb-md-1">
             <li>
-                <a class="btn btn-primary btnn" href="indexC.php">Categorias</a>
+                <a class="btn btn-primary btnn" href="category.php">Categorias</a>
             </li>
 
             <li>
-                <a class="btn btn-primary btnn" href="indexO.php">Ocasiones</a>
+                <a class="btn btn-primary btnn" href="occasions.php">Ocasiones</a>
             <li>
                 <a class="btn btn-primary btnn" href="indexO.php">Dificultad</a>
             </li>
 
             <li>
-                <a class="btn btn-primary btnn" href="indexC.php">Bebidas</a>
+                <a class="btn btn-primary btnn" href=".php">Bebidas</a>
             </li>
 
             <li>
