@@ -130,7 +130,14 @@ body {
     background: url(--clr-font);
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 700 !important;
+}
+
+.title-lgg{
+    background: url(--clr-font);
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
 }
 
 

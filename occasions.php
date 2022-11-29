@@ -39,7 +39,7 @@
 
         <header class="header">
             <div class="header-limit">
-                <a href="./foodscode.html"> <img class="logo-header" src="./imgs/Logo (1).png" alt="logo"> </a>
+                <a href="./foodscode.php"> <img class="logo-header" src="./imgs/Logo (1).png" alt="logo"> </a>
                 <div class="search-limit">
                     <div class="group">
                         <svg class="icon" aria-hidden="true" viewBox="0 0 24 24">
